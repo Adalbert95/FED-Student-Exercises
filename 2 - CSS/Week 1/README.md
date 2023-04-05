@@ -7,19 +7,19 @@ Change the font size, color, and style of the text on the page.
 
 > 💡 Hint
 >
->```html
-><!DOCTYPE html>
-><html>
-><head>
->   <link rel="stylesheet" href="mystyle.css">
-></head>
-><body>
->   <!-- Content -->
-></body>
-></html>
->```
+> ```html
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <link rel="stylesheet" href="mystyle.css" />
+>   </head>
+>   <body>
+>     <!-- Content -->
+>   </body>
+> </html>
+> ```
 >
->Resource: [W3 Schools - How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
+> Resource: [W3 Schools - How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
 
 ## Exercise 2
 

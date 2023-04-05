@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+  color: aqua;
+}
+
+button-hover:hover {
+  color: red;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 20px 50px;
+  font-size: 1.25rem;
+  position: relative;
+  margin: 32px;
+  border-radius: 30px;
+}
+
+.hover-button:hover {
+  background-color: rgb(19, 16, 207);
+  color: rgb(207, 45, 16);
+}
